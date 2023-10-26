@@ -5,7 +5,7 @@ import pandas as pd
 
 # 加载mnist数据集
 mnist = tf.keras.datasets.mnist
-(x_train, y_train), (x_test, y_test) = mnist.load_data(path='D:\PycharmProjects\pythonProject\mnist.npz')
+(x_train, y_train), (x_test, y_test) = mnist.load_data(path='D:\code\python_AI_study\Rnn_Mnist\data\mnist.npz')
 # print(x_train.shape)
 # plt.imshow(x_train[0])
 x_train, x_test = x_train / 255.0, x_test / 255.0  # 归一化
