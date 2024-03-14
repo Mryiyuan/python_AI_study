@@ -3,5 +3,9 @@
   <component name="Black">
     <option name="sdkName" value="rnn_tensorflow2.6.0" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="study" project-jdk-type="Python SDK" />
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="rnn_tensorflow2.6.0" project-jdk-type="Python SDK" />
+>>>>>>> origin/main
 </project>
